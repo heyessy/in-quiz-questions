@@ -1034,12 +1034,12 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr): The HT
 - [ ] //this is a comment
 - [ ] /* this is a comment */ 
 - [ ] <! this is a comment ->  
-- [ ] <!-- this is a comment -->
+- [x] <!-- this is a comment -->
 
 #### Q61. Which statement is false?
 
 - [ ] Inline elements can be nested inside inline elements.
 - [ ] Block elements can be nested inside block elements.
 - [ ] Inline elements can be nested inside block elements.
-- [ ] Block elements can be nested inside inline elements.
+- [x] Block elements can be nested inside inline elements.
 
