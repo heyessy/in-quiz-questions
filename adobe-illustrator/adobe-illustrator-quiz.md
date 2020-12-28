@@ -2,7 +2,7 @@
 
 #### Q1. What would happen to the fill color of the object shown below if you copied and pasted it into another Illustrator file where the Document Color Mode was set to CMYK?
 
-    - [ ] The fill color would be converted to CMYK values
+    - [x] The fill color would be converted to CMYK values
     - [ ] The fill color would be unchanged.
     - [ ] Illustrator would display an error because you can't paste an object with RGB colors into a CMYK file.
     - [ ] The fill color would remain RGB but its appearance would change.
@@ -18,12 +18,12 @@
 
     - [ ] to preserve vector copies of objects you plan to rasterize
     - [ ] to save copies of selected objects in a new file
-    - [ ] to preserve a selection of objects you may use again
+    - [x] to preserve a selection of objects you may use again
     - [ ] to save selected objects in a Creative Cloud library
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-    - [ ] clicking or dragging the first point in the path
+    - [x] clicking or dragging the first point in the path
     - [ ] choosing Object > Path > Join
     - [ ] pressing Return (Mac) or Enter (Windows)
     - [ ] switching to a different tool
